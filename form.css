@@ -1,0 +1,28 @@
+body
+{
+    background-image: url('./images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.ONE
+{
+    border: 2px solid;
+    border-color: rgb(29, 30, 85);
+    width: 450px;
+    height: 420px;
+    padding: 75px 0px 0px 70px;
+    margin: 150px 0px 0px 500px;
+    align-items: center;
+    background-color: #ffffff;    
+}
+
+form
+{
+    width: 300px;
+}
+.ONE:hover
+{
+
+    box-shadow: 10px 10px rgb(14, 49, 61);
+
+}
